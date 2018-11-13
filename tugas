@@ -1,8 +1,1 @@
-<html>
- <head>
-  <title>Fadhlurrahman</title>
- </head>
- <body>
- <?php echo '<p>Ini Coba-coba</p>'; ?> 
- </body>
-</html>
+<?php echo '<p>Ini Coba-coba</p>'; ?> 
